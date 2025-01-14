@@ -25,7 +25,7 @@ def check_rules(packet):
 
 # Paket günlüğü kaydetme
 def log_packet(packet, status):
-    with open("logs/firewall.log", "a") as f:
+    with open("firewall.log", "a") as f:
         f.write(f"{status}: {packet.summary()}\n")
     print(f"{status}: {packet.summary()}")
 
