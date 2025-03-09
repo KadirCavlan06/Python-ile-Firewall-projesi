@@ -1,0 +1,147 @@
+Ýzin Verildi: Ether / IP / TCP 20.189.173.7:https > 192.168.1.5:50144 A / Raw
+Ýzin Verildi: Ether / IP / TCP 20.189.173.7:https > 192.168.1.5:50144 A / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50144 > 20.189.173.7:https A
+Ýzin Verildi: Ether / IP / TCP 20.189.173.7:https > 192.168.1.5:50144 A / Raw
+Ýzin Verildi: Ether / IP / TCP 20.189.173.7:https > 192.168.1.5:50144 PA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50144 > 20.189.173.7:https A
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50144 > 20.189.173.7:https PA / Raw
+Ýzin Verildi: Ether / IP / TCP 20.189.173.7:https > 192.168.1.5:50145 PA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50145 > 20.189.173.7:https PA / Raw
+Ýzin Verildi: Ether / IP / UDP 192.168.1.40:7551 > 192.168.1.255:7551 / Raw
+Ýzin Verildi: Ether / IP / TCP 20.189.173.7:https > 192.168.1.5:50144 A / Padding
+Ýzin Verildi: Ether / IP / TCP 20.189.173.7:https > 192.168.1.5:50144 A / Padding
+Ýzin Verildi: Ether / IP / TCP 20.189.173.7:https > 192.168.1.5:50144 A / Padding
+Ýzin Verildi: Ether / IP / TCP 20.189.173.7:https > 192.168.1.5:50144 A / Padding
+Ýzin Verildi: Ether / IP / TCP 20.189.173.7:https > 192.168.1.5:50144 PA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50144 > 20.189.173.7:https A
+Ýzin Verildi: Ether / IP / TCP 20.189.173.7:https > 192.168.1.5:50145 A / Raw
+Ýzin Verildi: Ether / IP / TCP 20.189.173.7:https > 192.168.1.5:50145 A / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50145 > 20.189.173.7:https A
+Ýzin Verildi: Ether / IP / TCP 20.189.173.7:https > 192.168.1.5:50145 A / Raw
+Ýzin Verildi: Ether / IP / TCP 20.189.173.7:https > 192.168.1.5:50145 PA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50145 > 20.189.173.7:https A
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50145 > 20.189.173.7:https PA / Raw
+Ýzin Verildi: Ether / IP / TCP 20.189.173.7:https > 192.168.1.5:50144 FPA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50144 > 20.189.173.7:https A
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50144 > 20.189.173.7:https PA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50144 > 20.189.173.7:https FA
+Ýzin Verildi: Ether / IP / TCP 20.189.173.7:https > 192.168.1.5:50145 PA / Raw
+Ýzin Verildi: Ether / IP / TCP 20.189.173.7:https > 192.168.1.5:50145 A / Padding
+Ýzin Verildi: Ether / IP / TCP 20.189.173.7:https > 192.168.1.5:50145 FPA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50145 > 20.189.173.7:https A
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50145 > 20.189.173.7:https PA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50145 > 20.189.173.7:https FA
+Ýzin Verildi: Ether / IP / TCP 20.189.173.7:https > 192.168.1.5:50144 A / Padding
+Ýzin Verildi: Ether / IP / TCP 20.189.173.7:https > 192.168.1.5:50144 A / Padding
+Ýzin Verildi: Ether / IP / TCP 20.189.173.7:https > 192.168.1.5:50145 A / Padding
+Ýzin Verildi: Ether / IP / TCP 20.189.173.7:https > 192.168.1.5:50145 A / Padding
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50099 > 51.105.71.136:https PA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50099 > 51.105.71.136:https PA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50146 > 52.182.143.214:https S
+Ýzin Verildi: Ether / IP / TCP 51.105.71.136:https > 192.168.1.5:50099 A / Padding
+Ýzin Verildi: Ether / IP / TCP 51.105.71.136:https > 192.168.1.5:50099 A / Padding
+Ýzin Verildi: Ether / IP / TCP 51.105.71.136:https > 192.168.1.5:50099 PA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50099 > 51.105.71.136:https A
+Ýzin Verildi: Ether / IP / TCP 52.182.143.214:https > 192.168.1.5:50146 SA
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50146 > 52.182.143.214:https A
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50146 > 52.182.143.214:https PA / Raw
+Ýzin Verildi: Ether / IP / TCP 52.182.143.214:https > 192.168.1.5:50146 PA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50146 > 52.182.143.214:https PA / Raw
+Ýzin Verildi: Ether / IP / TCP 52.182.143.214:https > 192.168.1.5:50146 A / Raw
+Ýzin Verildi: Ether / IP / TCP 52.182.143.214:https > 192.168.1.5:50146 A / Raw
+Ýzin Verildi: Ether / IP / TCP 52.182.143.214:https > 192.168.1.5:50146 A / Raw
+Ýzin Verildi: Ether / IP / TCP 52.182.143.214:https > 192.168.1.5:50146 PA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50146 > 52.182.143.214:https A
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50146 > 52.182.143.214:https PA / Raw
+Ýzin Verildi: Ether / IP / TCP 52.182.143.214:https > 192.168.1.5:50146 A / Padding
+Ýzin Verildi: Ether / IP / TCP 52.182.143.214:https > 192.168.1.5:50146 A / Padding
+Ýzin Verildi: Ether / IP / TCP 52.182.143.214:https > 192.168.1.5:50146 PA / Raw
+Ýzin Verildi: Ether / IP / TCP 52.182.143.214:https > 192.168.1.5:50146 FPA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50146 > 52.182.143.214:https A
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50146 > 52.182.143.214:https PA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50146 > 52.182.143.214:https FA
+Ýzin Verildi: Ether / IP / TCP 52.182.143.214:https > 192.168.1.5:50146 A / Padding
+Ýzin Verildi: Ether / IP / TCP 52.182.143.214:https > 192.168.1.5:50146 A / Padding
+Ýzin Verildi: Ether / IP / TCP 52.182.143.214:https > 192.168.1.5:50146 A / Padding
+Ýzin Verildi: Ether / IP / UDP 192.168.1.40:7551 > 192.168.1.255:7551 / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:49755 > 3.68.18.70:https PA / Raw
+Ýzin Verildi: Ether / IP / TCP 3.68.18.70:https > 192.168.1.5:49755 PA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:49755 > 3.68.18.70:https A
+Ýzin Verildi: Ether / IP / UDP 192.168.1.40:7551 > 192.168.1.255:7551 / Raw
+Ýzin Verildi: Ether / IP / UDP / mDNS Ans b'Onur MacBook Air._airplay._tcp.local.'
+Ýzin Verildi: Ether / IP / UDP 192.168.1.40:7551 > 192.168.1.255:7551 / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50063 > 185.199.111.133:https A / Raw
+Ýzin Verildi: Ether / IP / TCP 185.199.111.133:https > 192.168.1.5:50063 A
+Ýzin Verildi: Ether / IP / UDP 192.168.1.40:7551 > 192.168.1.255:7551 / Raw
+Ýzin Verildi: Ether / IP / TCP 208.103.161.2:https > 192.168.1.5:49940 PA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:49940 > 208.103.161.2:https PA / Raw
+Ýzin Verildi: Ether / IP / TCP 208.103.161.2:https > 192.168.1.5:49940 A / Padding
+Ýzin Verildi: Ether / IP / UDP 192.168.1.40:7551 > 192.168.1.255:7551 / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50056 > 185.199.109.154:https A / Raw
+Ýzin Verildi: Ether / IP / TCP 208.103.161.2:https > 192.168.1.5:49940 PA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:49940 > 208.103.161.2:https PA / Raw
+Ýzin Verildi: Ether / IP / TCP 185.199.109.154:https > 192.168.1.5:50056 A
+Ýzin Verildi: Ether / IP / TCP 208.103.161.2:https > 192.168.1.5:49940 A / Padding
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50065 > 140.82.114.26:https A / Raw
+Ýzin Verildi: Ether / IP / TCP 140.82.114.26:https > 192.168.1.5:50065 A
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50093 > 40.126.53.8:https FA
+Ýzin Verildi: Ether / IP / UDP 192.168.1.40:7551 > 192.168.1.255:7551 / Raw
+Ýzin Verildi: Ether / IP / TCP 40.126.53.8:https > 192.168.1.5:50093 FA / Padding
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50093 > 40.126.53.8:https A
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:49755 > 3.68.18.70:https PA / Raw
+Ýzin Verildi: Ether / IP / TCP 3.68.18.70:https > 192.168.1.5:49755 A / Padding
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:49755 > 3.68.18.70:https PA / Raw
+Ýzin Verildi: Ether / IP / TCP 3.68.18.70:https > 192.168.1.5:49755 A / Padding
+Ýzin Verildi: Ether / IP / TCP 3.68.18.70:https > 192.168.1.5:49755 PA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:49755 > 3.68.18.70:https A
+Ýzin Verildi: Ether / IP / UDP 192.168.1.40:7551 > 192.168.1.255:7551 / Raw
+Ýzin Verildi: Ether / IP / TCP 140.82.121.6:https > 192.168.1.5:50098 PA / Raw
+Ýzin Verildi: Ether / IP / TCP 140.82.121.6:https > 192.168.1.5:50098 PA / Raw
+Ýzin Verildi: Ether / IP / TCP 140.82.121.6:https > 192.168.1.5:50098 FA / Padding
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50098 > 140.82.121.6:https A
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50098 > 140.82.121.6:https FA
+Ýzin Verildi: Ether / IP / TCP 140.82.121.6:https > 192.168.1.5:50098 A / Padding
+Ýzin Verildi: Ether / IP / UDP 192.168.1.40:7551 > 192.168.1.255:7551 / Raw
+Ýzin Verildi: Ether / IP / UDP 192.168.1.40:7551 > 192.168.1.255:7551 / Raw
+Ýzin Verildi: Ether / IP / UDP 192.168.1.40:7551 > 192.168.1.255:7551 / Raw
+Ýzin Verildi: Ether / IP / UDP 192.168.1.40:7551 > 192.168.1.255:7551 / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:49755 > 3.68.18.70:https PA / Raw
+Ýzin Verildi: Ether / IP / TCP 3.68.18.70:https > 192.168.1.5:49755 PA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:49755 > 3.68.18.70:https A
+Ýzin Verildi: Ether / IP / UDP 192.168.1.40:7551 > 192.168.1.255:7551 / Raw
+Ýzin Verildi: Ether / IP / UDP 192.168.1.40:7551 > 192.168.1.255:7551 / Raw
+Ýzin Verildi: Ether / IP / TCP 140.82.114.26:https > 192.168.1.5:50065 PA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50065 > 140.82.114.26:https PA / Raw
+Ýzin Verildi: Ether / IP / TCP 140.82.114.26:https > 192.168.1.5:50065 A / Padding
+Ýzin Verildi: Ether / IP / UDP 192.168.1.40:7551 > 192.168.1.255:7551 / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50095 > 13.107.5.93:https A / Raw
+Ýzin Verildi: Ether / IP / TCP 13.107.5.93:https > 192.168.1.5:50095 A
+Ýzin Verildi: Ether / IP / UDP 192.168.1.40:7551 > 192.168.1.255:7551 / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50101 > 140.82.114.22:https A / Raw
+Ýzin Verildi: Ether / IP / TCP 140.82.114.22:https > 192.168.1.5:50101 A
+Ýzin Verildi: Ether / IP / UDP 192.168.1.40:7551 > 192.168.1.255:7551 / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:49755 > 3.68.18.70:https PA / Raw
+Ýzin Verildi: Ether / IP / TCP 3.68.18.70:https > 192.168.1.5:49755 A / Padding
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:49755 > 3.68.18.70:https PA / Raw
+Ýzin Verildi: Ether / IP / TCP 3.68.18.70:https > 192.168.1.5:49755 A / Padding
+Ýzin Verildi: Ether / IP / TCP 3.68.18.70:https > 192.168.1.5:49755 PA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:49755 > 3.68.18.70:https A
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50120 > 13.107.6.175:https A / Raw
+Ýzin Verildi: Ether / IP / TCP 13.107.6.175:https > 192.168.1.5:50120 A
+Ýzin Verildi: Ether / IP / UDP 192.168.1.40:7551 > 192.168.1.255:7551 / Raw
+Ýzin Verildi: Ether / IP / TCP 208.103.161.2:https > 192.168.1.5:49940 PA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:49940 > 208.103.161.2:https PA / Raw
+Ýzin Verildi: Ether / IP / TCP 208.103.161.2:https > 192.168.1.5:49940 A / Padding
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50126 > 13.107.6.175:https A / Raw
+Ýzin Verildi: Ether / IP / TCP 13.107.6.175:https > 192.168.1.5:50126 A
+Ýzin Verildi: Ether / IP / UDP 192.168.1.40:7551 > 192.168.1.255:7551 / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:50094 > 3.68.170.153:https A / Raw
+Ýzin Verildi: Ether / IP / TCP 3.68.170.153:https > 192.168.1.5:50094 A
+Ýzin Verildi: Ether / IP / UDP 192.168.1.40:7551 > 192.168.1.255:7551 / Raw
+Ýzin Verildi: Ether / IP / TCP 208.103.161.2:https > 192.168.1.5:49940 PA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:49940 > 208.103.161.2:https PA / Raw
+Ýzin Verildi: Ether / IP / TCP 208.103.161.2:https > 192.168.1.5:49940 A / Padding
+Ýzin Verildi: Ether / IP / UDP 192.168.1.40:7551 > 192.168.1.255:7551 / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:49755 > 3.68.18.70:https PA / Raw
+Ýzin Verildi: Ether / IP / TCP 3.68.18.70:https > 192.168.1.5:49755 PA / Raw
+Engellendi - PORT: Ether / IP / TCP 192.168.1.5:49755 > 3.68.18.70:https A
